@@ -1,13 +1,13 @@
 ## systemPipeRdata: BLAST Workflow Template
 
 <p align="right">
-  <a href="https://systempipe.org/sprwf-spblast-02-14-04/SPblast.html">
+  <a href="https://systempipe.org/sprwf-blast/SPblast.html">
     <img src="https://img.shields.io/badge/TUTORIAL-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="Tutorial Badge">
   </a>
 </p>
 
 This is a workflow template for the systemPipeR Workflow Management System (WMS).
-Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-spblast-02-14-04/SPblast.html).
+Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-blast/SPblast.html).
 
 To learn how to design, set up, and run workflows using systemPipeR, users want to consult the official user manuals:
 
