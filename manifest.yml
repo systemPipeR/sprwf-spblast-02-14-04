@@ -1,6 +1,6 @@
 schema: 1
 type: workflow
-name: sprwf-rnaseq
+name: sprwf-blast
 version: "wf-1.1.1"
 
 systemPipeR:
@@ -10,7 +10,7 @@ systemPipeRdata:
   bioc_min: "2.15.4"
 
 param:
-  name: sprwf-param
+  name: sprwfcmp-param
   repo: "https://github.com/systemPipeR/sprwf-param"
   tag: "v1.1.1"
 
